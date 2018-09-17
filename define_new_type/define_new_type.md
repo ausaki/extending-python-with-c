@@ -1,5 +1,6 @@
 # 自定义类型
 
+> [https://docs.python.org/2.7/extending/newtypes.html](https://docs.python.org/2.7/extending/newtypes.html)
 
 ## 最简单的实例
 

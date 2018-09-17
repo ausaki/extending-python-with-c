@@ -1,5 +1,7 @@
 # 使用 C 语言编写 Python 模块
 
+> [https://docs.python.org/2.7/extending/extending.html](https://docs.python.org/2.7/extending/extending.html)
+
 ## 错误处理
 
 当函数在运行过程中发生了错误，应该设置异常信息（好比 Python 层面的 raise），并且返回 NULL 或者 - 1。
