@@ -21,3 +21,7 @@
 - 《Python/C API Reference Manual》
 
     - [简介](c_api/intro)
+    
+    - [顶层API](c_api/the_very_high_level_layer)
+    
+    - 其余的API直接看文档比较好，需要用的时候查文档就行。
